@@ -1,6 +1,13 @@
 # Challenge Music Battles
 
+
 ## Prueba para Music Battles
+
+### Instalacion de instalación de dependencia 
+
+Antes de iniciar el servidor es necesario instalar todas las dependencias del server, con el siguiente comando: 
+
+	npm install 
 
 ### Como correr el sever
 
